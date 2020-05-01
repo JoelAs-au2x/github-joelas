@@ -1,2 +1,3 @@
 # github-joelas
 Own tutorial of hello-world
+Her har jeg bare testa noe på norsk...
